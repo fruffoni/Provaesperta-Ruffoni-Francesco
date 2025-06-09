@@ -17,15 +17,15 @@ export default function Navbar({
     {
       nome: "PERCHE L'IPAB",
       sottoPagine: [
-        { nome: "vision e mission", link: "/escursioni/murano" },
+        { nome: "vision e mission", link: "/vision" },
         { nome: "statuto", link: "/escursioni/burano" },
       ]
     },
     {
       nome: "I.P.A.B. informa",
       sottoPagine: [
-        { nome: "Noleggio Privato", link: "/servizi/noleggio" },
-        { nome: "Trasporto Disabili", link: "/servizi/disabili" }
+        { nome: "Accesso agli atti", link: "/" },
+        { nome: "amministrazione trasparente", link: "/" }
       ]
 
     },
