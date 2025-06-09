@@ -27,7 +27,7 @@ export default function Home() {
           diviene elettore amministrativo di un comune chi è cittadino italiano, ha compiuto 21 anni, ha la residenza nel comune ovvero paga
           nel comune un censo, e contro il quale non siano insorte cause di esclusione per incapacità o indegnità.
         </p>
-        <a href="/presentazione" className="italic text-sm mt-4 text-cyan-700 hover:underline block">
+        <a href="/leggitutto" className="italic text-sm mt-4 text-cyan-700 hover:underline block">
           Continua a leggere ...
         </a>
       </section>
